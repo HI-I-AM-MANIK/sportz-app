@@ -1,0 +1,17 @@
+{
+  "name": "sportzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type":"module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
